@@ -16,10 +16,10 @@ This Tkinter application demonstrates the use of object-oriented programming (OO
 
 ### Screenshot:
 
-![Task 1 Tkinter Application](screenshots/tkinter1.png)
-![Task 1 Tkinter Application](screenshots/tkinter2.png)
-![Task 1 Tkinter Application](screenshots/tkinter3.png)
-![Task 1 Tkinter Application](screenshots/tkinter4.png)
+![Task 1 Tkinter Application](Screenshots/tkinter1.png)
+![Task 1 Tkinter Application](Screenshots/tkinter2.png)
+![Task 1 Tkinter Application](Screenshots/tkinter3.png)
+![Task 1 Tkinter Application](Screenshots/tkinter4.png)
 
 ---
 
@@ -40,9 +40,9 @@ This is a 2D side-scrolling game built using Pygame. The game includes a player 
 
 ### Screenshots:
 
-![Task 2 Pygame Game](screenshots/pygame_game.png)
-![Task 2 Pygame Game 2](screenshots/pygame_game2.png)
-![Task 2 Pygame Game 3](screenshots/pygame_game3.png)
+![Task 2 Pygame Game](Screenshots/pygame_game.png)
+![Task 2 Pygame Game 2](Screenshots/pygame_game2.png)
+![Task 2 Pygame Game 3](Screenshots/pygame_game3.png)
 
 ---
 
